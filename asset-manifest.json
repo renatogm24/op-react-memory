@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/op-react-memory/static/css/main.a617e044.chunk.css",
-    "main.js": "/op-react-memory/static/js/main.017d4386.chunk.js",
-    "main.js.map": "/op-react-memory/static/js/main.017d4386.chunk.js.map",
-    "runtime-main.js": "/op-react-memory/static/js/runtime-main.d1edfb8a.js",
-    "runtime-main.js.map": "/op-react-memory/static/js/runtime-main.d1edfb8a.js.map",
-    "static/js/2.a2951905.chunk.js": "/op-react-memory/static/js/2.a2951905.chunk.js",
-    "static/js/2.a2951905.chunk.js.map": "/op-react-memory/static/js/2.a2951905.chunk.js.map",
-    "static/js/3.93553276.chunk.js": "/op-react-memory/static/js/3.93553276.chunk.js",
-    "static/js/3.93553276.chunk.js.map": "/op-react-memory/static/js/3.93553276.chunk.js.map",
+    "main.css": "/op-react-memory/static/css/main.958ac24e.chunk.css",
+    "main.js": "/op-react-memory/static/js/main.f427ab22.chunk.js",
+    "main.js.map": "/op-react-memory/static/js/main.f427ab22.chunk.js.map",
+    "runtime-main.js": "/op-react-memory/static/js/runtime-main.c697c717.js",
+    "runtime-main.js.map": "/op-react-memory/static/js/runtime-main.c697c717.js.map",
+    "static/js/2.e7009bd7.chunk.js": "/op-react-memory/static/js/2.e7009bd7.chunk.js",
+    "static/js/2.e7009bd7.chunk.js.map": "/op-react-memory/static/js/2.e7009bd7.chunk.js.map",
     "index.html": "/op-react-memory/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/op-react-memory/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a2951905.chunk.js.LICENSE.txt": "/op-react-memory/static/js/2.a2951905.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/op-react-memory/static/media/logo.6ce24c58.svg"
+    "static/css/main.958ac24e.chunk.css.map": "/op-react-memory/static/css/main.958ac24e.chunk.css.map",
+    "static/js/2.e7009bd7.chunk.js.LICENSE.txt": "/op-react-memory/static/js/2.e7009bd7.chunk.js.LICENSE.txt",
+    "static/media/Albus.4530b211.png": "/op-react-memory/static/media/Albus.4530b211.png",
+    "static/media/Dobby.b49a8065.png": "/op-react-memory/static/media/Dobby.b49a8065.png",
+    "static/media/Draco.2a790b15.jpg": "/op-react-memory/static/media/Draco.2a790b15.jpg",
+    "static/media/Fread.afd76ddd.jpg": "/op-react-memory/static/media/Fread.afd76ddd.jpg",
+    "static/media/George.dd9aaec9.jpg": "/op-react-memory/static/media/George.dd9aaec9.jpg",
+    "static/media/Ginny.878b8b62.jpg": "/op-react-memory/static/media/Ginny.878b8b62.jpg",
+    "static/media/Harry.d17972c9.jpg": "/op-react-memory/static/media/Harry.d17972c9.jpg",
+    "static/media/Hermione.5106f98d.jpg": "/op-react-memory/static/media/Hermione.5106f98d.jpg",
+    "static/media/Ron.18492c58.jpg": "/op-react-memory/static/media/Ron.18492c58.jpg",
+    "static/media/Rubeus.7ec299f4.jpg": "/op-react-memory/static/media/Rubeus.7ec299f4.jpg",
+    "static/media/Severus.fe01a151.jpg": "/op-react-memory/static/media/Severus.fe01a151.jpg",
+    "static/media/Tom.3ccf0966.jpg": "/op-react-memory/static/media/Tom.3ccf0966.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1edfb8a.js",
-    "static/js/2.a2951905.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.017d4386.chunk.js"
+    "static/js/runtime-main.c697c717.js",
+    "static/js/2.e7009bd7.chunk.js",
+    "static/css/main.958ac24e.chunk.css",
+    "static/js/main.f427ab22.chunk.js"
   ]
 }
